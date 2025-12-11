@@ -1,5 +1,1 @@
-n8nio/n8n
-mysql
-nocodb/nocodb
-metabase/metabase
 dataease/dataease
