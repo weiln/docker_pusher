@@ -1,1 +1,1 @@
-dataease/dataease
+postgres:15
