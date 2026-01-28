@@ -1,2 +1,2 @@
 postgres:15
-OmniDB
+omnidb/omnidb
