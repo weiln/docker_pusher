@@ -1,2 +1,2 @@
 postgres:15
-omnidb/omnidb
+taivokasper/omnidb
